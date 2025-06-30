@@ -12,7 +12,6 @@ A machine learning project to classify news articles as **real** or **fake** usi
 
 ## 📊 Dataset
 [Kaggle: Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)  
-> ⚠️ Large files not included — upload manually in Colab when running the notebook.
 
 ## 🚀 Tech Stack
 Python, Pandas, Scikit-learn, Google Colab
